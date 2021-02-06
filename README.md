@@ -1,4 +1,4 @@
-### Hello! I'm studied Python last year, and now I'll do C++. 👋
+### Hello! I'm studied Python last year, and now I do C++. 👋
 ### Studying C++, I felt that Python was really easy.
 ### But, I won't give up. I'll do my best. :D
 
