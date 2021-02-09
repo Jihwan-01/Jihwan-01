@@ -1,5 +1,5 @@
 ### Hello! I'm studied Python last year, and now I do C++. 👋
-### Studying C++, I felt that Python was really easy.
+### Studying C++, I felt that programming is difficult like Python! :(
 ### But, I won't give up. I'll do my best. :D
 
 <!--
