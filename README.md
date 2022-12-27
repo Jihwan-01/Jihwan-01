@@ -1,6 +1,4 @@
-### Hello! I'm studied Python last year, and now I do C++. 👋
-### Studying C++, I felt that programming is difficult like Python! :(
-### But, I won't give up. I'll do my best. :D
+### Hello! I'm just studying several programming language. 👋
 
 <!--
 **Jihwan-01/Jihwan-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
